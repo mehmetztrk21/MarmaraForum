@@ -1,0 +1,17 @@
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Service.deps.json
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Service.dll
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\ref\Marmara.Service.dll
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Service.pdb
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.AssemblyInfo.cs
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.dll
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\ref\Marmara.Service.dll
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.pdb
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Data.dll
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Entity.dll
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Data.pdb
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\bin\Debug\net5.0\Marmara.Entity.pdb
+C:\Users\mehme\source\repos\MarmaraForum\Marmara.Service\obj\Debug\net5.0\Marmara.Service.csproj.CopyComplete
